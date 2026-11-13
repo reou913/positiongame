@@ -8,6 +8,6 @@
 // ※ service_role の鍵（secret key）は、ぜったいに書かないでください。
 // =====================================================================
 window.APP_CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_KEY: ""
+  SUPABASE_URL: "https://mtctyeezzycwqoyfjdmd.supabase.co",
+  SUPABASE_KEY: "sb_publishable_ZUDkLIqizJXlLmHA7xw_Fw_QWBKy_vy"
 };
